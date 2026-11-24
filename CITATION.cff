@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "OPENSC 2026 - Intelligenza Artificiale: Riflessioni Multidisciplinari - Transnational Open Science & Citizen Science Dataset"
+message: "If you use this dataset or notebook, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: "Paratore"
+    given-names: "Simone Gabriele"
+    affiliation: "Universita degli Studi di Messina - Dipartimento di Scienze Politiche e Giuridiche (U.Op. Ricerca SPG)"
+abstract: "FAIR-compliant, anonymized multi-wave and multimodal dataset derived from the third edition (2026) of the transnational Open Science and Citizen Science project Intelligenza Artificiale: Riflessioni Multidisciplinari (OPENSC 2026), conceived, managed, and scientifically directed by Simone Gabriele Paratore. Includes baseline (T0, N=74) and post-intervention (T2, N=47) survey distributions, harmonized Second Ring cross-linguistic individual survey records (es-AR, ro, ru; N=60), longitudinal lab assessments (T1), and an anonymized corpus of 276 student reflections across six multidisciplinary workshops."
+keywords:
+  - Artificial Intelligence
+  - Citizen Science
+  - Open Science
+  - Third Mission
+  - Algorithmic Governance
+  - FAIR Data
+  - Computational Text Analysis
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-11-24
